@@ -1,1 +1,1 @@
-![gif](resources/gif.gif)
+![gif](Resources/gif.gif)
